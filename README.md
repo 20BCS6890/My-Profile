@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitali Gupta</h1>
 <h3 align="center">A Computer Science Engineer, Undergraduate From India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmary270&psig=AOvVaw3N59-BJPiPQ6E0oRzUvNZl&ust=1708627608871000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiUx_-LvYQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="(https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh675&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh675" /> </p>
 
